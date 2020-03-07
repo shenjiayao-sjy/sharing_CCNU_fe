@@ -1,0 +1,38 @@
+body, div, ul, li, input, p{
+    margin: 0;
+    padding: 0;}
+img
+{
+    border: 0 none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background: rgb(255, 255, 255);
+}
+/* 基础设置*/
+.wrapper{
+    width:100%;
+}
+.banner{
+    margin: 0 auto;
+    width: 923px;
+    height: 225px;
+    background: #dbf9f9;
+    margin-top: 10px;
+}
+.rec-module{
+    width: 768px;
+    height: 325px;
+    margin: 0 auto;
+    /*margin-bottom: ;*/
+}
+.module-title{
+    font-size:17px;
+    color:rgba(112,112,112,1);
+}
+.card-container{
+    widows: 768px; 
+    height: 270px;
+}

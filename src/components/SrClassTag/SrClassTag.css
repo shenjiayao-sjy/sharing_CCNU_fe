@@ -1,0 +1,23 @@
+.class-tag-wrapper{
+    width:281px;
+    height:56px;
+    background:#F3F6FEFF;
+    border:1px solid rgba(156,182,247,1);
+    border-radius:6px;
+}
+.class-tag{
+    width: 39px;
+    height: 39px;
+    border-radius: 50%;
+    font-size: 17px;
+    color: #F3F6FEFF;
+    line-height: 39px;
+    text-align: center;
+}
+.subject{
+    font-size:17px;
+}
+.department{
+    font-size: 14px;
+    color:rgba(112,112,112,1);
+}

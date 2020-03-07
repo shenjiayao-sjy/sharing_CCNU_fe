@@ -1,0 +1,69 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+.message{
+    width:923px;
+    height:186px;
+    background-color:rgba(245,247,249,1);
+    display: flex;
+    align-items:center;
+    border-radius: 8px;
+}
+.user{
+    margin-left: 43px;
+    text-align: center;
+}
+.avatar{
+    width:113px;
+    height:113px;
+    background:rgba(255,255,226,1);
+    border-radius:50%;
+}
+.name{
+    font-size:20px;
+    margin-top: 5px;
+}
+.mes{
+    margin-left: 23px;
+    position: relative;
+}
+.text-container{
+    width:718px;
+    height:107px;
+    background-color: white;
+    font-size: 20px;
+    position: relative;
+}
+.text{
+    padding: 23px 44px;
+}
+.date{
+    font-size: 14px;
+    position: absolute;
+    right: 10px;
+    bottom: 3px;
+    color: rgb(68, 65, 65);
+}
+.reply{
+    position: absolute;
+    right: 16px;
+    padding: 7px;
+}
+.r-input{
+    border: none;
+    border-radius: 8px;
+    width: 213px;
+    height: 23px;
+    padding:0px 10px;
+}
+.r-button{
+    background-color: #FFEE9E;
+    width: 40px;
+    height: 23px;
+    border: none;
+    border-radius: 6px;
+    font-size: 11px;
+    color: rgb(68, 65, 65);
+    margin-left: 4px;
+}

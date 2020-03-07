@@ -1,0 +1,56 @@
+input {
+    display: block;
+    padding: 10px 10px;
+    border: none;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+.wrapper{
+    width:100%;
+}
+.u-container{
+    margin: 0 auto;
+    width: 910px;
+    height: 166px;
+    display: flex;
+    align-items:center;
+}
+.avatar{
+    width: 141px;
+    height: 141px;
+    background: rgba(255, 255, 226, 1);
+    border-radius: 50%;
+}
+.u-info{
+    margin-left: 23px;
+}
+#name{
+    font-size: 29px;
+    font-weight:bold;
+    width: 200px;
+}
+#sign{
+    font-size: 20px;
+    color: rgba(112, 112, 112, 1);
+    width: 500px;
+}
+.u-button{
+    width:169px;
+    height:45px;
+    background:rgba(151,177,241,1);
+    border-radius:11px;
+    font-size: 20px;
+    color: ghostwhite;
+    margin-top: 19px;
+}
+.statistic{
+    width: 169px;
+    display: flex;
+    justify-content:center; 
+}
+ .data {
+    width: 66px;
+    text-align: center;
+ }
