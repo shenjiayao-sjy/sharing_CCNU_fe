@@ -30,6 +30,7 @@ ReactDOM.render(
         <Route path="/course/:id" component={Course} />
         <Route path="/personal" component={Personal} />
         <Route path="/material/:id" component={Material} />
+        <Route path="/material/:id" component={Material} />
         </Switch>
     </Router>
         , document.getElementById("root"));
